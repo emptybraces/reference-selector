@@ -1,0 +1,45 @@
+            - name: docfx for GitHub Pages
+  # You may pin to the exact commit or the version.
+  # uses: sator-imaging/docfx-pages@66c3e70994c1baf6ea834d05ac400239675d978d
+  uses: sator-imaging/docfx-pages@v1.7.1
+  with:
+    # Text shown next to header logo.
+Default 'docfx-pages'
+
+    app_name: # default is docfx-pages
+    # Website title used as suffix for HTML pages. ex) "HTML Page Title | <site title>"
+Default 'docfx for GitHub Pages'
+
+    site_title: # default is docfx for GitHub Pages
+    # Footer text for generated pages. HTML accepted.
+Default '&copy; 2023 Sator Imaging'
+
+    site_footer: # default is &copy; 2023 Sator Imaging
+    # Define additional preprocessor symbols. (separate symbols by ';')
+Default ''
+
+    define_symbols: # optional, default is 
+    # Generate all-in-one class api document or separate each member into pages.
+Accepts one of: 'separatePages' | 'samePage'
+Default 'separatePages'
+
+    class_members: # optional, default is separatePages
+    # Website logo file path. Accepts full-qualified URI or relative path to '.docfx' folder.
+Default 'images/wikimedia-commons/logo-csharp-recolor.svg'
+
+    site_logo: # optional, default is images/wikimedia-commons/logo-csharp-recolor.svg
+    # Favicon file path. Accepts full-qualified URI or relative path to '.docfx' folder.
+Default 'images/wikimedia-commons/logo-csharp-recolor.svg'
+
+    site_favicon: # optional, default is images/wikimedia-commons/logo-csharp-recolor.svg
+    # Google Analytics ID. Leave empty to disable this feature.
+Default ''
+
+    google_analytics: # optional, default is 
+    # Default ''
+
+    main_js: # optional, default is 
+    # Default ''
+
+    main_css: # optional, default is 
+          
