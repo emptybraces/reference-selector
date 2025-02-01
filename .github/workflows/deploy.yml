@@ -1,4 +1,4 @@
-            - name: docfx for GitHub Pages
+- name: docfx for GitHub Pages
   # You may pin to the exact commit or the version.
   # uses: sator-imaging/docfx-pages@66c3e70994c1baf6ea834d05ac400239675d978d
   uses: sator-imaging/docfx-pages@v1.7.1
