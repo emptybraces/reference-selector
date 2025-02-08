@@ -1,8 +1,6 @@
-- name: Tutorial
-  href: tutorial.md
-- items:
-  name: Tutorial
-  items:
-  - href: step-1.md
-  - href: step-2.md
-  - href: step-3.md
+- name: 初めに
+  href: intro.md
+- name: 参照フィールド設定機能
+  href: reference_set_context.md
+- name: 選択履歴機能
+  href: selection_history.md
