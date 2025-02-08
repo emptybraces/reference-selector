@@ -1,5 +1,5 @@
 ## 選択履歴
-
+---
 このアセットは選択した履歴を保存し、
 インスペクタ上部に表示されるカスタムメニューから選択履歴を操作できます。
 
@@ -12,16 +12,16 @@
 
 ![img](https://emptybraces.github.io/reference-selector/images/selection_history1.jpg)
 
----
 ## オプション 
+---
 - Reset History: 選択履歴をリセットします。
 - Hide Unselectable Items: コンテキスメニューで選択できない項目を非表示にします。
 - Hide SelectionHistory GUI: インスペクタ上部のGUIを非表示にします。Tools/ReferenceSelectorから再表示できます。
 
 ![img](https://emptybraces.github.io/reference-selector/images/selection_history2.jpg)
 
----
 ## ショートカットキー
+---
 
 デフォルトでは以下の設定となります。
 

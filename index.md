@@ -1,13 +1,10 @@
+# Introduction
 ---
-toc: en/toc.yml
----
-## Introduction
-
 This asset is designed to reduce the drag-and-drop actions required for setting reference fields.
 It provides two main features:
 
----
 ## 1. Reference Field Assignment Feature
+---
 You can open a context menu on almost any reference field and quickly assign a reference object from the selection history.
 The context menu includes the following options:
 
@@ -18,8 +15,8 @@ The context menu includes the following options:
 
 ![img](https://emptybraces.github.io/reference-selector/images/intro1.jpg)
 
----
 ## 2. Selection History Feature
+---
 This feature keeps a history of selected objects, allowing you to access them via a dropdown list or shortcut keys.
 You can use the custom menu at the top of the Inspector window or the following shortcuts:
 

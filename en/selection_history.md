@@ -1,5 +1,5 @@
 ## Selection History
-
+---
 This asset saves the selection history, allowing you to manage it through a custom menu displayed at the top of the Inspector.
 
 - PREV: Select the previous item from the selection history. (Tab key)
@@ -11,17 +11,16 @@ This asset saves the selection history, allowing you to manage it through a cust
 
 ![img](https://emptybraces.github.io/reference-selector/images/selection_history1.jpg)
 
----
 ## Options
+---
 - Reset History: Clears the selection history.
 - Hide Unselectable Items: Hides items that cannot be selected from the context menu.
 - Hide SelectionHistory GUI: Hides the selection history GUI in the Inspector. You can re-enable it from Tools/ReferenceSelector.
 
 ![img](https://emptybraces.github.io/reference-selector/images/selection_history2.jpg)
 
+## Shortcut Keys
 ---
-## ショートカットキー
-Shortcut Keys
 The default settings are as follows:
 
 - Tab: PREV button
