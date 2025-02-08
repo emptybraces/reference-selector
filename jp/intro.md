@@ -12,7 +12,7 @@
 - Last Selected: 最後に設定したオブジェクトを設定
 - Find in Hierarchy Tree: 親子関係のあるオブジェクトから選んで設定
 
-![](images/intro1.jpg)
+![](https://emptybraces.github.io/reference-selector/images/intro1.jpg)
 
 ---
 ## 2. 選択ヒストリー機能
