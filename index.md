@@ -1,3 +1,6 @@
+---
+toc: en/toc.yml
+---
 ## Introduction
 
 This asset is designed to reduce the drag-and-drop actions required for setting reference fields.
@@ -13,7 +16,7 @@ The context menu includes the following options:
 - Last Selected: Assign the last assigned object.
 - Find in Hierarchy Tree: Select and assign an object from parent-child relationships.
 
-![](https://emptybraces.github.io/reference-selector/images/intro1.jpg)
+![img](https://emptybraces.github.io/reference-selector/images/intro1.jpg)
 
 ---
 ## 2. Selection History Feature
@@ -25,4 +28,4 @@ You can use the custom menu at the top of the Inspector window or the following 
 
 (You can change these shortcuts anytime in the Edit/Shortcuts settings.)
 
-![](https://emptybraces.github.io/reference-selector/images/intro2.jpg)
+![img](https://emptybraces.github.io/reference-selector/images/intro2.jpg)

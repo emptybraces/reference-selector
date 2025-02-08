@@ -10,7 +10,7 @@
 > [!TIP]
 > コードを修正し再コンパイルしても選択履歴を保持します。
 
-![](https://emptybraces.github.io/reference-selector/images/selection_history1.jpg)
+![img](https://emptybraces.github.io/reference-selector/images/selection_history1.jpg)
 
 ---
 ## オプション 
@@ -18,7 +18,7 @@
 - Hide Unselectable Items: コンテキスメニューで選択できない項目を非表示にします。
 - Hide SelectionHistory GUI: インスペクタ上部のGUIを非表示にします。Tools/ReferenceSelectorから再表示できます。
 
-![](https://emptybraces.github.io/reference-selector/images/selection_history2.jpg)
+![img](https://emptybraces.github.io/reference-selector/images/selection_history2.jpg)
 
 ---
 ## ショートカットキー
@@ -31,4 +31,4 @@
 > [!TIP]
 > Edit/Shortcuts画面でいつでも変更可能です。
 
-![](https://emptybraces.github.io/reference-selector/images/selection_history3.jpg)
+![img](https://emptybraces.github.io/reference-selector/images/selection_history3.jpg)
