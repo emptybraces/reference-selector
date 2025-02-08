@@ -1,8 +1,6 @@
-- name: First
-  href: ../index.md
-- items:
-  name: Tutorial
-  items:
-  - href: step-1.md
-  - href: step-2.md
-  - href: step-3.md
+- name: Introduction
+  href: ../intro.md
+- name: Reference Field Setting Feature
+  href: reference_set_context.md
+- name: Selection History Feature
+  href: selection_history.md
