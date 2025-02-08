@@ -6,8 +6,8 @@
 
 ![img](https://emptybraces.github.io/reference-selector/images/reference_set_context1.jpg)
 
-- Find in Hierarchy Tree
-
+## Find in Hierarchy Tree
+---
 親、子、同一階層のオブジェクト群から、参照フィールドと同一の型を探しアサインすることができます。
 
 ![img](https://emptybraces.github.io/reference-selector/images/reference_set_context2.jpg)

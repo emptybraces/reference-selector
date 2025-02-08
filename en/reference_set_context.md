@@ -6,8 +6,8 @@ Except for the "Find in Hierarchy Tree" feature (described below), this menu all
 
 ![img](https://emptybraces.github.io/reference-selector/images/reference_set_context1.jpg)
 
-- Find in Hierarchy Tree
-
+## Find in Hierarchy Tree
+---
 This feature lets you search for and assign objects of the same type as the reference field from parent, child, or sibling objects.
 
 ![img](https://emptybraces.github.io/reference-selector/images/reference_set_context2.jpg)
