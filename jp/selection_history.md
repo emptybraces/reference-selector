@@ -14,6 +14,7 @@
 - Hide SelectionHistory GUI: インスペクタ上部のGUIを非表示にします。Tools/ReferenceSelectorから再表示できます。
 
 ![](https://emptybraces.github.io/reference-selector/images/selection_history2.jpg)
+
 ---
 ## ショートカットキー
 
