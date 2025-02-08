@@ -12,7 +12,8 @@
 - Last Selected: 最後に設定したオブジェクトを設定
 - Find in Hierarchy Tree: 親子関係のあるオブジェクトから選んで設定
 
-![](https://emptybraces.github.io/reference-selector/jp/intro1.jpg)
+![](images/intro1.jpg)
+
 ---
 ## 2. 選択ヒストリー機能
 選択したオブジェクトの履歴を保持し、ドロップダウンリストやショートカットキーを使って、履歴内のオブジェクトにアクセスできます。
@@ -22,3 +23,5 @@ Inspectorウィンドウの上部にあるカスタムメニュー、または�
 - Shift + Tabキー: 選択ヒストリーから1つ先のオブジェクトを選択
 
 （Edit/Shortcuts画面でいつでも変更可能です。）
+
+![](https://emptybraces.github.io/reference-selector/images/intro2.jpg)
