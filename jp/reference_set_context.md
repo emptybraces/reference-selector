@@ -1,4 +1,4 @@
-## 使い方
+## カスタムコンテキストメニュー
 
 参照フィールド上で右クリックすることで、ReferenceSelectorのメニュ－を呼び出すことができます。
 
@@ -6,6 +6,7 @@
 
 ![](https://emptybraces.github.io/reference-selector/images/reference_set_context1.jpg)
 
+---
 - Find in Hierarchy tree
 
 親、子、同一階層のオブジェクト群から、参照フィールドと同一の型を探しアサインすることができます。
