@@ -5,6 +5,9 @@
 - NEXT: 選択履歴から、ひとつ次の項目を選択します。
 - SelectionHistory: 選択履歴の一覧を確認し任意の項目を選択することができます。
 
+> [!TIP]
+> コードを修正し再コンパイルしても選択履歴を保持します。
+
 ![](https://emptybraces.github.io/reference-selector/images/selection_history1.jpg)
 
 ---
