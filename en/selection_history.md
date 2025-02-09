@@ -2,8 +2,8 @@
 ---
 This asset saves the selection history, allowing you to manage it through a custom menu displayed at the top of the Inspector.
 
-- PREV: Select the previous item from the selection history. (Tab key)
-- NEXT: Select the next item from the selection history. (Shift + Tab key)
+- PREV: Select the previous item from the selection history. (Number 3 key)
+- NEXT: Select the next item from the selection history. (Number 4 key)
 - SelectionHistory: View the full selection history and choose any item.
 
 > [!TIP]
@@ -23,8 +23,8 @@ This asset saves the selection history, allowing you to manage it through a cust
 ---
 The default settings are as follows:
 
-- Tab: PREV button
-- Shift + Tab: NEXT button
+- Number 3 key: PREV button
+- Number 4 key: NEXT button
 
 > [!TIP]
 > You can change these settings at any time in the Edit/Shortcuts screen.

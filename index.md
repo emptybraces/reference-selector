@@ -20,8 +20,8 @@ The context menu includes the following options:
 This feature keeps a history of selected objects, allowing you to access them via a dropdown list or shortcut keys.
 You can use the custom menu at the top of the Inspector window or the following shortcuts:
 
-- Tab: Select the previous object from the selection history.
-- Shift + Tab: Select the next object from the selection history.
+- Number 3 key: Select the previous object from the selection history.
+- Number 4 key: Select the next object from the selection history.
 
 (You can change these shortcuts anytime in the Edit/Shortcuts settings.)
 
