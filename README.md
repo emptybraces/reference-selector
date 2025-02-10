@@ -1,3 +1,4 @@
+![img](https://emptybraces.github.io/reference-selector/images/logo.jpg)
 # Introduction
 ---
 This asset is designed to reduce the drag-and-drop actions required for setting reference fields.
