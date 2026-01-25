@@ -2,9 +2,17 @@
 ---
 You can open the Reference Selector menu by right-clicking on a reference field.
 
-Except for the "Find in Hierarchy Tree" feature (described below), this menu allows you to search within the selection history for objects of the same type as the reference field and assign them.
+![img](../images/ref_field_assign1.jpg)
 
-![img](https://emptybraces.github.io/reference-selector/images/reference_set_context1.jpg)
+## Selection History 
+---
+Only objects that are compatible with the target field type will be available for assignment.
+
+![img](../images/ref_field_assign2.jpg)
+
+## Recently Selected
+---
+You can assign a recently selected object that is compatible with the target field type.
 
 ## Find in Hierarchy Tree
 ---

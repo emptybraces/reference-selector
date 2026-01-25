@@ -1,29 +1,31 @@
-![img](https://emptybraces.github.io/reference-selector/images/logo.jpg)
+![img](../images/logo.jpg)
 # Introduction
 ---
-This asset is designed to reduce the drag-and-drop actions required for setting reference fields.
+This asset is designed to reduce the drag-and-drop actions required for setting reference fields.<br>
 It provides two main features:
 
 ## 1. Reference Field Assignment Feature
 ---
-You can open a context menu on almost any reference field and quickly assign a reference object from the selection history.
+You can open a context menu on almost any reference field to quickly assign a reference from your selection history.<br>
 The context menu includes the following options:
 
-- ***SelectionHistory***: Select and assign any object from the list.
-- ***Find Recently Selected***: Assign the most recently selected object.
-- ***Last Selected***: Assign the last assigned object.
-- ***Find in Hierarchy Tree***: Select and assign an object from parent-child relationships.
+- ***Selection History***: Select and assign any object from the selection history list.
+- ***Recently Selected***: Assign the most recently selected object that matches the target type.
+- ***Last Selected***: Assign the last object previously assigned via Reference Selector.
+- ***Get Component***: Assign a reference by executing GetComponent-based methods.
+- ***Near Siblings***: Assign an object from the previous or next sibling in the same hierarchy level.
+- ***Hierarchy Tree***: Select and assign an object from parent–child relationships in the hierarchy.
 
-![img](https://emptybraces.github.io/reference-selector/images/intro1.jpg)
+![img](../images/intro1.jpg)
 
 ## 2. Selection History Feature
 ---
-This feature keeps a history of selected objects, allowing you to access them via a dropdown list or shortcut keys.
-You can use the custom menu at the top of the Inspector window or the following shortcuts:
+Keeps a history of selected objects and provides quick access buttons at the top of the Inspector.<br>
+You can rapidly navigate and select objects from the history using a dropdown list or shortcut keys.
 
-- ***Number 3 key***: Select the previous object from the selection history.
-- ***Number 4 key***: Select the next object from the selection history.
+- ***Shift + Mouse Wheel Down***: Select the previous object in the history.
+- ***Shift + Mouse Wheel Up***: Select the next object in the history.
 
 (You can change these shortcuts anytime in the Edit/Shortcuts settings.)
 
-![img](https://emptybraces.github.io/reference-selector/images/intro2.jpg)
+![img](../images/intro2.jpg)
