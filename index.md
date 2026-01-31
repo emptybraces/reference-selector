@@ -35,7 +35,7 @@ Additionally, you can open the Inspector window for a selected object by **Ctrl+
 
 - Full Undo support.
 - Supports Domain Reload (safe to use during script recompilation).
-- Supported Unity version: Unity 2022 or later.
+- Supported Unity version: Unity 6 or later.
 - Compatible with Odin Inspector.
 - Bug reports can be submitted here: <br>
 　motose6★gmail.com<br>
