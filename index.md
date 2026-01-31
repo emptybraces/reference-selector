@@ -1,4 +1,4 @@
-![img](../images/logo.jpg)
+![img](images/logo.jpg)
 # Introduction
 ---
 This asset was created to reduce drag-and-drop actions when assigning reference fields in the Unity Editor.<br>
@@ -16,7 +16,7 @@ The context menu includes the following options:
 - `Recently Selected`: Assign recently selected objects that match the target type
 - `Last Assigned`: Assign the last object set using this asset
 
-![img](../images/intro1.png)
+![img](images/intro1.png)
 
 ## 2. Selection History
 ---
@@ -29,7 +29,7 @@ Additionally, you can open the Inspector window for a selected object by **Ctrl+
 
 (Shortcut keys can be customized from the Edit/Shortcuts window.)
 
-![img](../images/intro2.jpg)
+![img](images/intro2.jpg)
 
 ## 3. Support
 
