@@ -1,6 +1,6 @@
 - name: Introduction
   href: ../index.md
-- name: Reference Field Assignment Feature
-  href: ref_field_assign.md
-- name: Selection History Feature
+- name: Custom Context Menu
+  href: context_menu.md
+- name: Selection History
   href: selection_history.md

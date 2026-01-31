@@ -1,34 +1,40 @@
 ## 選択履歴
 ---
-このアセットは選択した履歴を保存し、
-インスペクタ上部に表示されるカスタムメニューから選択履歴を操作できます。
+このアセットは、選択したシーン内オブジェクトおよびアセットオブジェクトの履歴を保存します。<br>
+保存された履歴は、インスペクタ上部に表示される `Open History` メニューから操作できます。<br>
+また、 **Reference Selector** のコンテキストメニューによる参照割り当て時にも、この選択履歴が利用されます。<br>
+さらに、Ctrl+クリックすることで、選択したオブジェクトのインスペクタウィンドウを直接開くことができます。
 
-- ***PREV***: 選択履歴から、ひとつ前の項目を選択します。（3キー）
-- ***NEXT***: 選択履歴から、ひとつ次の項目を選択します。（4キー）
-- ***SelectionHistory***: 選択履歴の一覧を確認し任意の項目を選択することができます。
+- `PREV`: 選択履歴から、ひとつ前の項目を選択します。
+- `NEXT` : 選択履歴から、ひとつ次の項目を選択します。
+- `Open History`: 選択履歴の一覧を表示し、任意の項目を選択できます。
 
 > [!TIP]
-> コードを修正し再コンパイルしても選択履歴を保持します。
+> 再コンパイル後も選択履歴は保持されます。<br>
+> シーン内オブジェクトの履歴も、シーンをアンロードして失われることはなく、再度シーンを開いた際に有効になります。
 
-![img](https://emptybraces.github.io/reference-selector/images/selection_history1.jpg)
+![img](../images/selection_history1.jpg)
 
 ## オプション 
 ---
-- ***Reset History***: 選択履歴をリセットします。
-- ***Hide Unselectable Items***: コンテキスメニューで選択できない項目を非表示にします。
-- ***Hide SelectionHistory GUI***: インスペクタ上部のGUIを非表示にします。Tools/ReferenceSelectorから再表示できます。
+- `Reset History` : 選択履歴をリセットします。
+- `Hide Unselectable Items` : コンテキストメニューで選択できない項目を非表示にします。
+- `Hide SelectionHistory GUI` : インスペクタ上部の **Selection History GUI** を非表示にします。**Tools/Reference Selector** から再表示できます。
+- `Edit Shortcuts...` : ショートカット設定ウィンドウを開きます。
+- `Edit Preferences...` : **Reference Selector** のプリファレンスを開きます。
+- `Reference Selector Ver: X.X.X` : **Reference Selector** のバージョンを表示します。
 
-![img](https://emptybraces.github.io/reference-selector/images/selection_history2.jpg)
+![img](../images/selection_history2.png)
 
 ## ショートカットキー
 ---
 
-デフォルトでは以下の設定となります。
+デフォルトでは、以下のショートカットが設定されています。
 
-- ***3キー***: PREVボタン
-- ***4キー***: NEXTボタン
+- `シフト+ホイールダウン` : PREV ボタン
+- `シフト+ホイールアップ` : NEXT ボタン
 
 > [!TIP]
-> Edit/Shortcuts画面でいつでも変更可能です。
+> **Edit/Shortcuts** または **Edit Shortcuts...** から、ショートカット設定ウィンドウを開いていつでも変更できます。
 
-![img](https://emptybraces.github.io/reference-selector/images/selection_history3.jpg)
+![img](../images/selection_history3.jpg)
