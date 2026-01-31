@@ -1,29 +1,41 @@
 ![img](https://emptybraces.github.io/reference-selector/images/logo.jpg)
 # Introduction
 
-This asset is designed to reduce the drag-and-drop actions required for setting reference fields.
-It provides two main features:
+This asset was created to reduce drag-and-drop actions when assigning reference fields in the Unity Editor.<br>
+It provides the following two main features.
 
-## 1. Reference Field Assignment Feature
+## 1. Reference Field Assignment
 
-You can open a context menu on almost any reference field and quickly assign a reference object from the selection history.
+You can open a context menu on almost any reference field and quickly assign reference objects from the selection history.<br>
 The context menu includes the following options:
 
-- ***SelectionHistory***: Select and assign any object from the list.
-- ***Find Recently Selected***: Assign the most recently selected object.
-- ***Last Selected***: Assign the last assigned object.
-- ***Find in Hierarchy Tree***: Select and assign an object from parent-child relationships.
+- `Selection History`: Assign any object from the selection history
+- `Hierarchy Tree`: Assign objects from parent-child relationships
+- `Nearest Sibling`: Assign objects from previous or next siblings at the same hierarchy level
+- `Get Component`: Assign references by executing GetComponent-related methods
+- `Recently Selected`: Assign recently selected objects that match the target type
+- `Last Assigned`: Assign the last object set using this asset
 
-![img](https://emptybraces.github.io/reference-selector/images/intro1.jpg)
+![img](https://emptybraces.github.io/reference-selector/images/intro1.png)
 
-## 2. Selection History Feature
+## 2. Selection History
 
-This feature keeps a history of selected objects, allowing you to access them via a dropdown list or shortcut keys.
-You can use the custom menu at the top of the Inspector window or the following shortcuts:
+The history of selected objects is stored, and an access button is displayed at the top of the Inspector.<br>
+You can quickly access objects in the history using a dropdown list or shortcut keys.<br>
+Additionally, you can open the Inspector window for a selected object by **Ctrl+clicking** it.
 
-- ***Number 3 key***: Select the previous object from the selection history.
-- ***Number 4 key***: Select the next object from the selection history.
+- `Shift + Mouse Wheel Down`: Select the previous object in the selection history.
+- `Shift + Mouse Wheel Up`: Select the next object in the selection history.
 
-(You can change these shortcuts anytime in the Edit/Shortcuts settings.)
+(Shortcut keys can be customized from the Edit/Shortcuts window.)
 
 ![img](https://emptybraces.github.io/reference-selector/images/intro2.jpg)
+
+## 3. Support
+
+- Full Undo support.
+- Supports Domain Reload (safe to use during script recompilation).
+- Supported Unity version: Unity 2022 or later.
+- Compatible with Odin Inspector.
+- Bug reports can be submitted here:
+　<https://github.com/emptybraces/reference-selector/issues>
