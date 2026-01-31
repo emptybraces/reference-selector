@@ -1,4 +1,7 @@
 ![img](https://emptybraces.github.io/Unity-ReferenceSelector-OnlineManual/images/logo.jpg)
+
+### [Online Manual](https://emptybraces.github.io/Unity-ReferenceSelector-OnlineManual/)
+
 # Introduction
 
 This asset was created to reduce drag-and-drop actions when assigning reference fields in the Unity Editor.<br>
