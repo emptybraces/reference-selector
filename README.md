@@ -16,7 +16,7 @@ The context menu includes the following options:
 - `Recently Selected`: Assign recently selected objects that match the target type
 - `Last Assigned`: Assign the last object set using this asset
 
-![img](https://emptybraces.github.io/reference-selector/images/intro1.png)
+![img](https://emptybraces.github.io/Unity-ReferenceSelector-OnlineManual/images/intro1.png)
 
 ## 2. Selection History
 
@@ -29,7 +29,7 @@ Additionally, you can open the Inspector window for a selected object by **Ctrl+
 
 (Shortcut keys can be customized from the Edit/Shortcuts window.)
 
-![img](https://emptybraces.github.io/reference-selector/images/intro2.jpg)
+![img](https://emptybraces.github.io/Unity-ReferenceSelector-OnlineManual/images/intro2.jpg)
 
 ## 3. Support
 
@@ -38,4 +38,4 @@ Additionally, you can open the Inspector window for a selected object by **Ctrl+
 - Supported Unity version: Unity 6 or later.
 - Compatible with Odin Inspector.
 - Bug reports can be submitted here:
-　<https://github.com/emptybraces/reference-selector/issues>
+　<https://github.com/emptybraces/Unity-ReferenceSelector-OnlineManual/issues>

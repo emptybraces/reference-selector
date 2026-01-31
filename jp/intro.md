@@ -40,4 +40,4 @@
 - Odin Inspectorとの併用が可能。
 - バグ報告はこちらまでお願いします：<br>
 　motose6★gmail.com<br>
-　<https://github.com/emptybraces/reference-selector/issues>
+　<https://github.com/emptybraces/Unity-ReferenceSelector-OnlineManual/issues>

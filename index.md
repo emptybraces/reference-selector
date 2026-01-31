@@ -39,4 +39,4 @@ Additionally, you can open the Inspector window for a selected object by **Ctrl+
 - Compatible with Odin Inspector.
 - Bug reports can be submitted here: <br>
 　motose6★gmail.com<br>
-　<https://github.com/emptybraces/reference-selector/issues>
+　<https://github.com/emptybraces/Unity-ReferenceSelector-OnlineManual/issues>
